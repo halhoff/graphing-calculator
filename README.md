@@ -4,4 +4,4 @@ Examples of inputs:
 - 1+1, 0.2^(0.5), (1+2)*3
 - x, x^2, x+1/x, x^(1/2)
 
-Inspired by [Desmos](desmos.com/calculator) and [WolframAlpha](wolframalpha.com).
+Inspired by [Desmos](https://desmos.com/calculator) and [WolframAlpha](https://wolframalpha.com).
